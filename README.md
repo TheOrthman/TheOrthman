@@ -1,6 +1,6 @@
 # Hi, I’m Usman 👋
 
-### Data Analyst | Founder, Mambila Analytics
+### Data Analyst | Founder, Mambila Labs
 
 I’m a data analyst focused on turning raw data into clear, actionable insights for businesses and decision-makers. I work across data cleaning, analysis, and storytelling to help organizations understand performance, trends, and opportunities.
 
