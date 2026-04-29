@@ -1,1 +1,1 @@
-Data Analyst → Data Scientist | Python, SQL, Power BI | Building End-to-End ML Systems & Decision Intelligence Solutions
+Data Analyst & ML App Developer | Building predictive models and real-world data solutions
