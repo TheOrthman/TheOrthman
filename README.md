@@ -27,9 +27,8 @@ I specialize in transforming raw, messy datasets into tested, documented, produc
 - LLM Ops: evaluating RAG pipelines
 
 ### 📫 Let's connect
-- LinkedIn: [your-link]
-- Email: your.email@gmail.com
-- Portfolio: [github.io link if you have one]
+- Email: Berrylee05@gmail.com
+
 
 ---
 *"Data without context is just noise. I build the context."*
