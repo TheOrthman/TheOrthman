@@ -1,6 +1,6 @@
 ### Hi, I'm Usman 👋
 
-**Data Engineer & Analytics Engineer** passionate about building reliable data platforms. 
+**Data Engineer & Software Enthusiast** passionate about building reliable data platforms. 
 
 I specialize in transforming raw, messy datasets into tested, documented, production pipelines that drive real decisions.
 
